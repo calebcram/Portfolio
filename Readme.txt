@@ -1,1 +1,1 @@
-Visit this portfolio: [GitHub Pages](https://calebcram.github.io/Portfolio/)
+Visit this portfolio: calebcram.github.io/Portfolio
