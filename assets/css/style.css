@@ -94,7 +94,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #000000;
 }
 
 .overlay-mf {
@@ -721,7 +721,7 @@ a:hover {
 .hero {
   height: 100vh;
   position: relative;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 .hero .hero-content {
@@ -792,7 +792,7 @@ a:hover {
 }
 
 .hero-single .breadcrumb .breadcrumb-item:before {
-  color: #cde1f8;
+  color: #ffffff;
 }
 
 .hero-single .breadcrumb .breadcrumb-item.active {
